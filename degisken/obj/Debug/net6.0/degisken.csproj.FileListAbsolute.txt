@@ -1,0 +1,15 @@
+C:\Users\alper\Desktop\Pratikler\degisken\bin\Debug\net6.0\degisken.exe
+C:\Users\alper\Desktop\Pratikler\degisken\bin\Debug\net6.0\degisken.deps.json
+C:\Users\alper\Desktop\Pratikler\degisken\bin\Debug\net6.0\degisken.runtimeconfig.json
+C:\Users\alper\Desktop\Pratikler\degisken\bin\Debug\net6.0\degisken.dll
+C:\Users\alper\Desktop\Pratikler\degisken\bin\Debug\net6.0\ref\degisken.dll
+C:\Users\alper\Desktop\Pratikler\degisken\bin\Debug\net6.0\degisken.pdb
+C:\Users\alper\Desktop\Pratikler\degisken\obj\Debug\net6.0\degisken.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\Pratikler\degisken\obj\Debug\net6.0\degisken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\Pratikler\degisken\obj\Debug\net6.0\degisken.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\Pratikler\degisken\obj\Debug\net6.0\degisken.AssemblyInfo.cs
+C:\Users\alper\Desktop\Pratikler\degisken\obj\Debug\net6.0\degisken.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\Pratikler\degisken\obj\Debug\net6.0\degisken.dll
+C:\Users\alper\Desktop\Pratikler\degisken\obj\Debug\net6.0\ref\degisken.dll
+C:\Users\alper\Desktop\Pratikler\degisken\obj\Debug\net6.0\degisken.pdb
+C:\Users\alper\Desktop\Pratikler\degisken\obj\Debug\net6.0\degisken.genruntimeconfig.cache
